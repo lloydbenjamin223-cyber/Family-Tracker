@@ -1718,6 +1718,15 @@
       "cat": "Needs",
       "amt": 84.58,
       "timestamp": 1791406005923
+    },
+    {
+      "id": "muykw6aknkfw3",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Drink at MAV waters",
+      "cat": "Wants",
+      "amt": 1.71,
+      "timestamp": 1791406023644
     }
   ]
 }
