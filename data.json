@@ -1700,6 +1700,15 @@
       "cat": "Wants",
       "amt": 9,
       "timestamp": 1791405972544
+    },
+    {
+      "id": "muykvjg077d54",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Counseling Katers",
+      "cat": "Medical",
+      "amt": 25.01,
+      "timestamp": 1791405994032
     }
   ]
 }
