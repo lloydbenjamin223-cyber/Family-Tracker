@@ -1682,6 +1682,15 @@
       "cat": "Wants",
       "amt": 1.71,
       "timestamp": 1791405919223
+    },
+    {
+      "id": "muyku7c5dd2gj",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Katers girl night",
+      "cat": "Food / Eating out",
+      "amt": 15.33,
+      "timestamp": 1791405931686
     }
   ]
 }
