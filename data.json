@@ -1691,6 +1691,15 @@
       "cat": "Food / Eating out",
       "amt": 15.33,
       "timestamp": 1791405931686
+    },
+    {
+      "id": "muykv2v4babm4",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Parking for girls night skaters",
+      "cat": "Wants",
+      "amt": 9,
+      "timestamp": 1791405972544
     }
   ]
 }
