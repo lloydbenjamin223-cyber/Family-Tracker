@@ -1799,6 +1799,15 @@
       "cat": "Needs",
       "amt": 29,
       "timestamp": 1791406244573
+    },
+    {
+      "id": "muyl1thc8hso0",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Walmart Run for Ben",
+      "cat": "Wants",
+      "amt": 52.92,
+      "timestamp": 1791406286976
     }
   ]
 }
