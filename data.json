@@ -1763,6 +1763,15 @@
       "cat": "Wants",
       "amt": 4.83,
       "timestamp": 1791406147689
+    },
+    {
+      "id": "muykz4kpru45r",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Hills Kitchen Food",
+      "cat": "Food / Eating out",
+      "amt": 15.41,
+      "timestamp": 1791406161385
     }
   ]
 }
