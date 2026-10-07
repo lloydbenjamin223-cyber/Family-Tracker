@@ -1673,6 +1673,15 @@
       "cat": "Needs",
       "amt": 93.61,
       "timestamp": 1791405907274
+    },
+    {
+      "id": "muyktxpzmfnvf",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Drink at MAV Katers",
+      "cat": "Wants",
+      "amt": 1.71,
+      "timestamp": 1791405919223
     }
   ]
 }
