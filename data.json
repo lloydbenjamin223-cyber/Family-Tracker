@@ -1772,6 +1772,15 @@
       "cat": "Food / Eating out",
       "amt": 15.41,
       "timestamp": 1791406161385
+    },
+    {
+      "id": "muyl06m5oiaqm",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Stupid Mesnorium Test",
+      "cat": "Wants",
+      "amt": 42,
+      "timestamp": 1791406210685
     }
   ]
 }
