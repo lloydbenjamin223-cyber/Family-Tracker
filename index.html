@@ -311,7 +311,6 @@ function loadData() {
   })
   .then(function(r) {
     if (r.status === 404) {
-      // File doesn't exist yet — start fresh
       ghFileSha = null;
       syncStatus('ok', 'Connected — ready');
       return null;
@@ -338,7 +337,7 @@ function saveData() {
   var payload = { entries: allEntries };
   var body = {
     message: 'Update budget data',
-    content: btoa(JSON.stringify(payload, null, 2)),
+    content: btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2)))),
     committer: { name: 'Family Tracker', email: 'tracker@family.local' }
   };
   if (ghFileSha) body.sha = ghFileSha;
@@ -368,7 +367,7 @@ function saveData() {
 
 function scheduleSave() {
   if (saveTimer) clearTimeout(saveTimer);
-  saveTimer = setTimeout(saveData, 800);
+  saveTimer = setTimeout(saveData, 0);
 }
 
 // ── ADD / REMOVE ──────────────────────────────────────────
