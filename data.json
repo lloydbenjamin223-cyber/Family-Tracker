@@ -1655,6 +1655,15 @@
       "cat": "Needs",
       "amt": 53.82,
       "timestamp": 1791405817828
+    },
+    {
+      "id": "muyktc2ko3c46",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Tanner Clinic Co pay",
+      "cat": "Medical",
+      "amt": 25,
+      "timestamp": 1791405891164
     }
   ]
 }
