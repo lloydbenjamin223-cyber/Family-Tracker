@@ -1727,6 +1727,15 @@
       "cat": "Wants",
       "amt": 1.71,
       "timestamp": 1791406023644
+    },
+    {
+      "id": "muykwk1xg9y16",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Smiths Groceries",
+      "cat": "Needs",
+      "amt": 34.78,
+      "timestamp": 1791406041477
     }
   ]
 }
