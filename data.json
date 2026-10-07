@@ -1664,6 +1664,15 @@
       "cat": "Medical",
       "amt": 25,
       "timestamp": 1791405891164
+    },
+    {
+      "id": "muyktoi2dgbd5",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Smiths Groceries",
+      "cat": "Needs",
+      "amt": 93.61,
+      "timestamp": 1791405907274
     }
   ]
 }
