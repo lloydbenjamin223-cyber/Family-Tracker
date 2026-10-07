@@ -1610,6 +1610,15 @@
       "cat": "Baby",
       "amt": 20,
       "timestamp": 1791405732353
+    },
+    {
+      "id": "muykq6a71kp0n",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Nails Katers",
+      "cat": "Wants",
+      "amt": 25,
+      "timestamp": 1791405743696
     }
   ]
 }
