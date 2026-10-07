@@ -1754,6 +1754,15 @@
       "cat": "Wants",
       "amt": 35.35,
       "timestamp": 1791406105111
+    },
+    {
+      "id": "muykyu09on0u5",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Exxon Drink Ben",
+      "cat": "Wants",
+      "amt": 4.83,
+      "timestamp": 1791406147689
     }
   ]
 }
