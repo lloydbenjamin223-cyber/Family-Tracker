@@ -1709,6 +1709,15 @@
       "cat": "Medical",
       "amt": 25.01,
       "timestamp": 1791405994032
+    },
+    {
+      "id": "muykvsmbtkza1",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Gas",
+      "cat": "Needs",
+      "amt": 84.58,
+      "timestamp": 1791406005923
     }
   ]
 }
