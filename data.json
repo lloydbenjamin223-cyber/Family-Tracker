@@ -1300,7 +1300,7 @@
       "id": "mu09ev29m6t7",
       "month": "September 2026",
       "type": "expense",
-      "cat": "Wants",
+      "cat": "Needs",
       "description": "Walgreens",
       "amt": "28.09",
       "timestamp": 1789330890177
@@ -1318,7 +1318,7 @@
       "id": "mu09ev29hv5n",
       "month": "September 2026",
       "type": "expense",
-      "cat": "Wants",
+      "cat": "Needs",
       "description": "Apple",
       "amt": "31.43",
       "timestamp": 1789330890177
@@ -1390,7 +1390,7 @@
       "id": "mu09o1zj51rwg",
       "month": "September 2026",
       "type": "expense",
-      "cat": "Needs",
+      "cat": "Medical",
       "description": "Mckailti Counseling",
       "amt": "25.01",
       "timestamp": 1789331319055
@@ -1399,7 +1399,7 @@
       "id": "mu09omufzf9iu",
       "month": "September 2026",
       "type": "expense",
-      "cat": "Wants",
+      "cat": "Baby",
       "description": "Kents BABY SHOWER PARTY NEEDS",
       "amt": "54.53",
       "timestamp": 1789331346087
@@ -1471,7 +1471,7 @@
       "id": "mua49l6kfssn7",
       "month": "September 2026",
       "type": "expense",
-      "cat": "Wants",
+      "cat": "Needs",
       "description": "Apple",
       "amt": "5.34",
       "timestamp": 1789926907772
@@ -1561,7 +1561,7 @@
       "id": "mua5xdg9emtd3",
       "month": "September 2026",
       "type": "expense",
-      "cat": "Wants",
+      "cat": "Baby",
       "description": "Birthing Class",
       "amt": "250",
       "timestamp": 1789929697113
@@ -1598,7 +1598,7 @@
       "month": "September 2026",
       "type": "expense",
       "description": "Amazon Protein Powder",
-      "cat": "Food / Eating out",
+      "cat": "Needs",
       "amt": 44.34,
       "timestamp": 1791405691395
     },
