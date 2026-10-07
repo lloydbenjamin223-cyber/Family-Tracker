@@ -1736,6 +1736,15 @@
       "cat": "Needs",
       "amt": 34.78,
       "timestamp": 1791406041477
+    },
+    {
+      "id": "muykxjsma6lnj",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Homedepot flooring",
+      "cat": "Wants",
+      "amt": 487.15,
+      "timestamp": 1791406087798
     }
   ]
 }
