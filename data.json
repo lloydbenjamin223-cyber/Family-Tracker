@@ -1808,6 +1808,15 @@
       "cat": "Wants",
       "amt": 52.92,
       "timestamp": 1791406286976
+    },
+    {
+      "id": "muyl4bb1txg37",
+      "month": "September 2026",
+      "type": "income",
+      "description": "Mikayla",
+      "cat": "Side income",
+      "amt": 58,
+      "timestamp": 1791406403389
     }
   ]
 }
