@@ -1844,6 +1844,33 @@
       "cat": "Side income",
       "amt": 75,
       "timestamp": 1791406468030
+    },
+    {
+      "id": "muyofnwlm1nfj",
+      "month": "September 2026",
+      "type": "expense",
+      "cat": "Savings transfer",
+      "description": "Wealthfront (Savings)",
+      "amt": 2905.15,
+      "timestamp": 1791411971781
+    },
+    {
+      "id": "muyofnwlqcwq6",
+      "month": "September 2026",
+      "type": "expense",
+      "cat": "Retirement",
+      "description": "Retirement",
+      "amt": 311.03,
+      "timestamp": 1791411971781
+    },
+    {
+      "id": "muyofnwlfhyyd",
+      "month": "September 2026",
+      "type": "expense",
+      "cat": "Needs",
+      "description": "Tithing",
+      "amt": 505.13,
+      "timestamp": 1791411971781
     }
   ]
 }
