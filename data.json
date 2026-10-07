@@ -1628,6 +1628,15 @@
       "cat": "Needs",
       "amt": 87.85,
       "timestamp": 1791405778794
+    },
+    {
+      "id": "muykr8xvxj3ea",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "hatch",
+      "cat": "Wants",
+      "amt": 5.34,
+      "timestamp": 1791405793795
     }
   ]
 }
