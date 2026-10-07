@@ -1835,6 +1835,15 @@
       "cat": "Side income",
       "amt": 150,
       "timestamp": 1791406460372
+    },
+    {
+      "id": "muyl5p6mtdg54",
+      "month": "September 2026",
+      "type": "income",
+      "description": "29th Tiffany",
+      "cat": "Side income",
+      "amt": 75,
+      "timestamp": 1791406468030
     }
   ]
 }
