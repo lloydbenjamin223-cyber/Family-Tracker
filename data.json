@@ -1790,6 +1790,15 @@
       "cat": "Needs",
       "amt": 70.43,
       "timestamp": 1791406235839
+    },
+    {
+      "id": "muyl0wrhte6hi",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Haircut Ben",
+      "cat": "Needs",
+      "amt": 29,
+      "timestamp": 1791406244573
     }
   ]
 }
