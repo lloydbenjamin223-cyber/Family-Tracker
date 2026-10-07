@@ -1871,6 +1871,15 @@
       "description": "Tithing",
       "amt": 505.13,
       "timestamp": 1791411971781
+    },
+    {
+      "id": "muypb4ouaxfqp",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC - Travel",
+      "cat": "Wants",
+      "amt": 1,
+      "timestamp": 1791413439870
     }
   ]
 }
