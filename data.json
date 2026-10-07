@@ -1745,6 +1745,15 @@
       "cat": "Wants",
       "amt": 487.15,
       "timestamp": 1791406087798
+    },
+    {
+      "id": "muykxx5jd772h",
+      "month": "September 2026",
+      "type": "expense",
+      "description": "Plato's Closet katers",
+      "cat": "Wants",
+      "amt": 35.35,
+      "timestamp": 1791406105111
     }
   ]
 }
