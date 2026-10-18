@@ -1934,6 +1934,15 @@
       "cat": "Other",
       "amt": 8.47,
       "timestamp": 1792359954223
+    },
+    {
+      "id": "mvecugejyyxev",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - pizza",
+      "cat": "Other",
+      "amt": 55.5,
+      "timestamp": 1792359965323
     }
   ]
 }
