@@ -2024,6 +2024,15 @@
       "cat": "Needs",
       "amt": 25.01,
       "timestamp": 1792360314824
+    },
+    {
+      "id": "mved25rif3yoi",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Maverick GAS",
+      "cat": "Needs",
+      "amt": 56.77,
+      "timestamp": 1792360324782
     }
   ]
 }
