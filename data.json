@@ -1898,6 +1898,15 @@
       "cat": "Other",
       "amt": 22.42,
       "timestamp": 1792359890794
+    },
+    {
+      "id": "mvect1tsu9aop",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - parking",
+      "cat": "Other",
+      "amt": 26,
+      "timestamp": 1792359899776
     }
   ]
 }
