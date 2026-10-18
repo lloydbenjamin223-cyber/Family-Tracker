@@ -2096,6 +2096,15 @@
       "cat": "Food / Eating out",
       "amt": 39.72,
       "timestamp": 1792360493301
+    },
+    {
+      "id": "mved6f34mgb1a",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Smiths Gracie's",
+      "cat": "Needs",
+      "amt": 49.5,
+      "timestamp": 1792360523488
     }
   ]
 }
