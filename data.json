@@ -2159,6 +2159,15 @@
       "cat": "Wants",
       "amt": 22.9,
       "timestamp": 1792360863859
+    },
+    {
+      "id": "mvede1nmczxin",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Desk - Ben",
+      "cat": "Wants",
+      "amt": 201.61,
+      "timestamp": 1792360879330
     }
   ]
 }
