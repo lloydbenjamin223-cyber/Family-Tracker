@@ -2186,6 +2186,15 @@
       "cat": "Wants",
       "amt": 6.96,
       "timestamp": 1792360930109
+    },
+    {
+      "id": "mvedff8kyb7qg",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Sams Club",
+      "cat": "Wants",
+      "amt": 55.28,
+      "timestamp": 1792360943588
     }
   ]
 }
