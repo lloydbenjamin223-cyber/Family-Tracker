@@ -1871,6 +1871,15 @@
       "description": "Tithing",
       "amt": 505.13,
       "timestamp": 1791411971781
+    },
+    {
+      "id": "mvecsajbqydg8",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP airport snacks",
+      "cat": "Other",
+      "amt": 33.04,
+      "timestamp": 1792359864407
     }
   ]
 }
