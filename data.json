@@ -2105,6 +2105,15 @@
       "cat": "Needs",
       "amt": 49.5,
       "timestamp": 1792360523488
+    },
+    {
+      "id": "mved6nu25syk0",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "CAR GAS",
+      "cat": "Needs",
+      "amt": 83.77,
+      "timestamp": 1792360534826
     }
   ]
 }
