@@ -2213,6 +2213,15 @@
       "cat": "Salary",
       "amt": 2225.64,
       "timestamp": 1792361124530
+    },
+    {
+      "id": "mvedrwyicj94e",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "HAYES Goose stuffy",
+      "cat": "Baby",
+      "amt": 26.8,
+      "timestamp": 1792361526426
     }
   ]
 }
