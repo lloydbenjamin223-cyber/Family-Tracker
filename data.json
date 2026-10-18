@@ -1925,6 +1925,15 @@
       "cat": "Other",
       "amt": 10.49,
       "timestamp": 1792359924894
+    },
+    {
+      "id": "mvecu7u7dcy8s",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - Fords theatre book for Hayes",
+      "cat": "Other",
+      "amt": 8.47,
+      "timestamp": 1792359954223
     }
   ]
 }
