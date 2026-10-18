@@ -2222,6 +2222,15 @@
       "cat": "Baby",
       "amt": 26.8,
       "timestamp": 1792361526426
+    },
+    {
+      "id": "mvedsprbedq3d",
+      "month": "October 2026",
+      "type": "income",
+      "description": "Facebook Marketplace 20$",
+      "cat": "Other",
+      "amt": 20,
+      "timestamp": 1792361563751
     }
   ]
 }
