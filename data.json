@@ -1907,6 +1907,15 @@
       "cat": "Other",
       "amt": 26,
       "timestamp": 1792359899776
+    },
+    {
+      "id": "mvectcls3k8mn",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - temple clothing rental",
+      "cat": "Other",
+      "amt": 12,
+      "timestamp": 1792359913744
     }
   ]
 }
