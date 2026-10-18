@@ -2204,6 +2204,15 @@
       "cat": "Salary",
       "amt": 2225.64,
       "timestamp": 1792361104655
+    },
+    {
+      "id": "mvedjauq8cz9i",
+      "month": "October 2026",
+      "type": "income",
+      "description": "Bens Salary",
+      "cat": "Salary",
+      "amt": 2225.64,
+      "timestamp": 1792361124530
     }
   ]
 }
