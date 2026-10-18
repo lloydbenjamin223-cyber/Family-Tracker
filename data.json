@@ -2060,6 +2060,15 @@
       "cat": "Wants",
       "amt": 6.48,
       "timestamp": 1792360394606
+    },
+    {
+      "id": "mved3znddk1oz",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Aubergine",
+      "cat": "Food / Eating out",
+      "amt": 33.12,
+      "timestamp": 1792360410169
     }
   ]
 }
