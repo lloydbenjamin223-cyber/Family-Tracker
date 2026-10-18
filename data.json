@@ -2015,6 +2015,15 @@
       "cat": "Wants",
       "amt": 4.33,
       "timestamp": 1792360296399
+    },
+    {
+      "id": "mved1y2wzowbm",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Katers Counseling",
+      "cat": "Needs",
+      "amt": 25.01,
+      "timestamp": 1792360314824
     }
   ]
 }
