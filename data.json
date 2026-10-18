@@ -2051,6 +2051,15 @@
       "cat": "Other",
       "amt": 55.11,
       "timestamp": 1792360372032
+    },
+    {
+      "id": "mved3nn2q8dup",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Ben Fun - Crackers in Park City",
+      "cat": "Wants",
+      "amt": 6.48,
+      "timestamp": 1792360394606
     }
   ]
 }
