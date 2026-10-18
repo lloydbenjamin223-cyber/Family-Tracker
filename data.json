@@ -1970,6 +1970,15 @@
       "cat": "Other",
       "amt": 40.4,
       "timestamp": 1792360040052
+    },
+    {
+      "id": "mvecwg5ll3wju",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - target run",
+      "cat": "Other",
+      "amt": 6.94,
+      "timestamp": 1792360058313
     }
   ]
 }
