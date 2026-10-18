@@ -2132,6 +2132,15 @@
       "cat": "Needs",
       "amt": 27.48,
       "timestamp": 1792360640767
+    },
+    {
+      "id": "mvedc0ktnszel",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - Uber",
+      "cat": "Other",
+      "amt": 68.95,
+      "timestamp": 1792360784621
     }
   ]
 }
