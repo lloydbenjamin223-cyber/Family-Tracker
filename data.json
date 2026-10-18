@@ -2267,6 +2267,15 @@
       "cat": "Side income",
       "amt": 115.5,
       "timestamp": 1792361617090
+    },
+    {
+      "id": "mvedualjtw0i8",
+      "month": "October 2026",
+      "type": "income",
+      "description": "EVENTS 10/14",
+      "cat": "Side income",
+      "amt": 140,
+      "timestamp": 1792361637415
     }
   ]
 }
