@@ -1916,6 +1916,15 @@
       "cat": "Other",
       "amt": 12,
       "timestamp": 1792359913744
+    },
+    {
+      "id": "mvectl7iiavbi",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - ice cream",
+      "cat": "Other",
+      "amt": 10.49,
+      "timestamp": 1792359924894
     }
   ]
 }
