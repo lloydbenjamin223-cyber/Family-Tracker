@@ -2042,6 +2042,15 @@
       "cat": "Needs",
       "amt": 8,
       "timestamp": 1792360352795
+    },
+    {
+      "id": "mved3680n0oqk",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - Flowers for Lowrys",
+      "cat": "Other",
+      "amt": 55.11,
+      "timestamp": 1792360372032
     }
   ]
 }
