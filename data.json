@@ -2033,6 +2033,15 @@
       "cat": "Needs",
       "amt": 56.77,
       "timestamp": 1792360324782
+    },
+    {
+      "id": "mved2rdn5gdhh",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Car wash",
+      "cat": "Needs",
+      "amt": 8,
+      "timestamp": 1792360352795
     }
   ]
 }
