@@ -1979,6 +1979,15 @@
       "cat": "Other",
       "amt": 6.94,
       "timestamp": 1792360058313
+    },
+    {
+      "id": "mvecy799tpwmv",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - dinner with Jake",
+      "cat": "Other",
+      "amt": 60,
+      "timestamp": 1792360140093
     }
   ]
 }
