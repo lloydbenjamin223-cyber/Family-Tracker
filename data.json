@@ -1961,6 +1961,15 @@
       "cat": "Other",
       "amt": 9,
       "timestamp": 1792360022249
+    },
+    {
+      "id": "mvecw22c2fchb",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - lunch",
+      "cat": "Other",
+      "amt": 40.4,
+      "timestamp": 1792360040052
     }
   ]
 }
