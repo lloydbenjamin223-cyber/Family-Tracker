@@ -2069,6 +2069,15 @@
       "cat": "Food / Eating out",
       "amt": 33.12,
       "timestamp": 1792360410169
+    },
+    {
+      "id": "mved4iizurshy",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Tannerclinci blood",
+      "cat": "Medical",
+      "amt": 35.71,
+      "timestamp": 1792360434635
     }
   ]
 }
