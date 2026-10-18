@@ -2168,6 +2168,15 @@
       "cat": "Wants",
       "amt": 201.61,
       "timestamp": 1792360879330
+    },
+    {
+      "id": "mvedeu6hvm48e",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Sams Club Groceries - wants",
+      "cat": "Needs",
+      "amt": 64.11,
+      "timestamp": 1792360916297
     }
   ]
 }
