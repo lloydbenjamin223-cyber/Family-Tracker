@@ -2123,6 +2123,15 @@
       "cat": "Wants",
       "amt": 37.92,
       "timestamp": 1792360589991
+    },
+    {
+      "id": "mved8xkvnd0ul",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Target - Katers Needs for Makeup",
+      "cat": "Needs",
+      "amt": 27.48,
+      "timestamp": 1792360640767
     }
   ]
 }
