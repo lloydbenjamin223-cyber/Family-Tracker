@@ -2150,6 +2150,15 @@
       "cat": "Needs",
       "amt": 38.9,
       "timestamp": 1792360847496
+    },
+    {
+      "id": "mveddppvwf1bd",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Pregnancy Belt - Katers",
+      "cat": "Wants",
+      "amt": 22.9,
+      "timestamp": 1792360863859
     }
   ]
 }
