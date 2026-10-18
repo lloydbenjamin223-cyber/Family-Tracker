@@ -1943,6 +1943,15 @@
       "cat": "Other",
       "amt": 55.5,
       "timestamp": 1792359965323
+    },
+    {
+      "id": "mvecusc1u7pm0",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - dinner",
+      "cat": "Other",
+      "amt": 58.55,
+      "timestamp": 1792359980785
     }
   ]
 }
