@@ -1988,6 +1988,15 @@
       "cat": "Other",
       "amt": 60,
       "timestamp": 1792360140093
+    },
+    {
+      "id": "mved079cah4f6",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Stupid Mensorium",
+      "cat": "Wants",
+      "amt": 40,
+      "timestamp": 1792360233408
     }
   ]
 }
