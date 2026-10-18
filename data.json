@@ -1889,6 +1889,15 @@
       "cat": "Other",
       "amt": 36.69,
       "timestamp": 1792359875011
+    },
+    {
+      "id": "mvecsuwasljqf",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "DC TRIP - scooters around DC",
+      "cat": "Other",
+      "amt": 22.42,
+      "timestamp": 1792359890794
     }
   ]
 }
