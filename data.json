@@ -2114,6 +2114,15 @@
       "cat": "Needs",
       "amt": 83.77,
       "timestamp": 1792360534826
+    },
+    {
+      "id": "mved7uefwta9d",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Hobby Lobby - Katers FUN",
+      "cat": "Wants",
+      "amt": 37.92,
+      "timestamp": 1792360589991
     }
   ]
 }
