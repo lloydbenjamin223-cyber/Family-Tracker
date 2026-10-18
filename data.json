@@ -2141,6 +2141,15 @@
       "cat": "Other",
       "amt": 68.95,
       "timestamp": 1792360784621
+    },
+    {
+      "id": "mveddd3ctj71g",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Apple",
+      "cat": "Needs",
+      "amt": 38.9,
+      "timestamp": 1792360847496
     }
   ]
 }
