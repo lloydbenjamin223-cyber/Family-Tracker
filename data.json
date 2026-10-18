@@ -2087,6 +2087,15 @@
       "cat": "Wants",
       "amt": 11.21,
       "timestamp": 1792360470955
+    },
+    {
+      "id": "mved5rsls48wm",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Ktichen 88",
+      "cat": "Food / Eating out",
+      "amt": 39.72,
+      "timestamp": 1792360493301
     }
   ]
 }
