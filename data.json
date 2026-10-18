@@ -1997,6 +1997,15 @@
       "cat": "Wants",
       "amt": 40,
       "timestamp": 1792360233408
+    },
+    {
+      "id": "mved0kt68g0q8",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Gorceries Smiths",
+      "cat": "Needs",
+      "amt": 82.34,
+      "timestamp": 1792360250970
     }
   ]
 }
