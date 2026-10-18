@@ -2177,6 +2177,15 @@
       "cat": "Needs",
       "amt": 64.11,
       "timestamp": 1792360916297
+    },
+    {
+      "id": "mvedf4u57kb9n",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Disney +",
+      "cat": "Wants",
+      "amt": 6.96,
+      "timestamp": 1792360930109
     }
   ]
 }
