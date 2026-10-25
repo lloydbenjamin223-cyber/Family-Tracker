@@ -2420,6 +2420,15 @@
       "cat": "Wants",
       "amt": 27.77,
       "timestamp": 1792959767865
+    },
+    {
+      "id": "mvoa2lv94lt91",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Date With Haven and Navy",
+      "cat": "Wants",
+      "amt": 24.92,
+      "timestamp": 1792959968565
     }
   ]
 }
