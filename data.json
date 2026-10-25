@@ -2321,6 +2321,15 @@
       "cat": "Other",
       "amt": 200,
       "timestamp": 1792957902909
+    },
+    {
+      "id": "mvo8uqf1c73ga",
+      "month": "October 2026",
+      "type": "income",
+      "description": "Desk",
+      "cat": "Other",
+      "amt": 40,
+      "timestamp": 1792957921597
     }
   ]
 }
