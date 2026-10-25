@@ -2357,6 +2357,15 @@
       "cat": "Side income",
       "amt": 100,
       "timestamp": 1792958259171
+    },
+    {
+      "id": "mvo9lrh6rfgbl",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Smiths Groceries",
+      "cat": "Needs",
+      "amt": 86.59,
+      "timestamp": 1792959182682
     }
   ]
 }
