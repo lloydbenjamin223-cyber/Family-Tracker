@@ -2375,6 +2375,15 @@
       "cat": "Wants",
       "amt": 155.51,
       "timestamp": 1792959209345
+    },
+    {
+      "id": "mvo9ouwujzu49",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Walmart - Ben Tee",
+      "cat": "Wants",
+      "amt": 15.98,
+      "timestamp": 1792959327102
     }
   ]
 }
