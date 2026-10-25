@@ -2366,6 +2366,15 @@
       "cat": "Needs",
       "amt": 86.59,
       "timestamp": 1792959182682
+    },
+    {
+      "id": "mvo9mc1te1cjp",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Target - Ben",
+      "cat": "Wants",
+      "amt": 155.51,
+      "timestamp": 1792959209345
     }
   ]
 }
