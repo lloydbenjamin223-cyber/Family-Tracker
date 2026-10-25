@@ -2411,6 +2411,15 @@
       "cat": "Medical",
       "amt": 25,
       "timestamp": 1792959725560
+    },
+    {
+      "id": "mvo9yb09mwu5s",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Walmart - Ben",
+      "cat": "Wants",
+      "amt": 27.77,
+      "timestamp": 1792959767865
     }
   ]
 }
