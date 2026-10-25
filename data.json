@@ -2312,6 +2312,15 @@
       "cat": "Wants",
       "amt": 5,
       "timestamp": 1792957574107
+    },
+    {
+      "id": "mvo8ubzxix5v6",
+      "month": "October 2026",
+      "type": "income",
+      "description": "Ryker Ragnar",
+      "cat": "Other",
+      "amt": 200,
+      "timestamp": 1792957902909
     }
   ]
 }
