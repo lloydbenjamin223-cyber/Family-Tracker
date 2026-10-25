@@ -2294,6 +2294,15 @@
       "cat": "Side income",
       "amt": 115,
       "timestamp": 1792361679952
+    },
+    {
+      "id": "mvo8lqvf1o9lu",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Nails Katers",
+      "cat": "Wants",
+      "amt": 30,
+      "timestamp": 1792957502283
     }
   ]
 }
