@@ -2438,6 +2438,15 @@
       "cat": "Wants",
       "amt": 14.42,
       "timestamp": 1792959999969
+    },
+    {
+      "id": "mvoa99sa8ti8p",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Date Night with Siblings Fun",
+      "cat": "Wants",
+      "amt": 32.16,
+      "timestamp": 1792960279499
     }
   ]
 }
