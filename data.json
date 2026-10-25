@@ -2303,6 +2303,15 @@
       "cat": "Wants",
       "amt": 30,
       "timestamp": 1792957502283
+    },
+    {
+      "id": "mvo8naajj3ddz",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Basket on FB Marketplace",
+      "cat": "Wants",
+      "amt": 5,
+      "timestamp": 1792957574107
     }
   ]
 }
