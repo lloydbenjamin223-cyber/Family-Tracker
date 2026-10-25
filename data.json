@@ -2384,6 +2384,15 @@
       "cat": "Wants",
       "amt": 15.98,
       "timestamp": 1792959327102
+    },
+    {
+      "id": "mvo9pv7tar0m3",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Walmart  - Katers",
+      "cat": "Wants",
+      "amt": 140.47,
+      "timestamp": 1792959374153
     }
   ]
 }
