@@ -195,7 +195,7 @@ var SAVINGS_CATS=['Savings transfer'];var RETIRE_CATS=['Retirement'];
 function isBenFun(e){var c=e.cat||'',d=(e.description||'').toLowerCase();return c==='Ben Fun'||(c==='Wants'&&d.indexOf('ben')!==-1&&(d.indexOf('fun')!==-1||d.indexOf('crackers')!==-1));}
 function isKateFun(e){var c=e.cat||'',d=(e.description||'').toLowerCase();return c==='Mckaitli Fun'||(c==='Wants'&&(d.indexOf('katers fun')!==-1||d.indexOf('mckai')!==-1)&&d.indexOf('fun')!==-1);}
 function checkPw(){var v=document.getElementById('pw-input').value;if(v===atob(PW_HASH)){sessionStorage.setItem('mb_auth','1');document.getElementById('pw-screen').style.display='none';loadData();}else{var i=document.getElementById('pw-input');i.classList.remove('pw-shake');void i.offsetWidth;i.classList.add('pw-shake');document.getElementById('pw-error').textContent='Incorrect password';i.value='';}}
-function fmt(n){return '$'+Math.abs(n).toFixed(2).replace(/B(?=(d{3})+(?!d))/g,',');}
+function fmt(n){return '$'+Math.abs(n).toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g,',');}
 function uid(){return Date.now().toString(36)+Math.random().toString(36).slice(2,7);}
 function currentMonth(){return document.getElementById('month-select').value;}
 function byType(t){var m=currentMonth();return allEntries.filter(function(e){return e.month===m&&e.type===t;});}
@@ -207,8 +207,7 @@ syncStatus('busy','Loading...');
 try{var c=localStorage.getItem('mb_entries');if(c){allEntries=JSON.parse(c);render();}}catch(e){}
 fetch('https://api.github.com/repos/'+GH_OWNER+'/'+GH_REPO+'/contents/'+GH_FILE,{headers:ghHeaders()})
 .then(function(r){if(r.status===404){ghFileSha=null;syncStatus('ok','Connected');return null;}return r.json();})
-.then(function(data){if(!data)return;ghFileSha=data.sha;var content=JSON.parse(atob(data.content.replace(/
-/g,'')));allEntries=content.entries||[];try{localStorage.setItem('mb_entries',JSON.stringify(allEntries));}catch(e){}syncStatus('ok','Connected -- '+allEntries.length+' entries');render();})
+.then(function(data){if(!data)return;ghFileSha=data.sha;var content=JSON.parse(atob(data.content.replace(/\n/g,'')));allEntries=content.entries||[];try{localStorage.setItem('mb_entries',JSON.stringify(allEntries));}catch(e){}syncStatus('ok','Connected -- '+allEntries.length+' entries');render();})
 .catch(function(err){console.error(err);syncStatus('err','Offline -- local data');});
 }
 function saveData(){
@@ -234,7 +233,7 @@ function removeEntry(id){allEntries=allEntries.filter(function(e){return e.id!==
 function renderList(lid,type,cls){
 var entries=byType(type);var el=document.getElementById(lid);
 if(!entries.length){el.innerHTML='<div class="empty-state">No entries -- add one below</div>';return;}
-el.innerHTML=entries.map(function(e){return '<div class="entry-row"><div><div>'+e.description+'</div><div class="entry-cat">'+e.cat+'</div></div><div class="entry-amt '+cls+'">'+fmt(e.amt)+'</div><button class="entry-del" onclick="removeEntry(''+e.id+'')" title="Remove">&#215;</button></div>';}).join('');
+el.innerHTML=entries.map(function(e){return '<div class="entry-row"><div><div>'+e.description+'</div><div class="entry-cat">'+e.cat+'</div></div><div class="entry-amt '+cls+'">'+fmt(e.amt)+'</div><button class="entry-del" onclick="removeEntry(\''+e.id+'\')" title="Remove">&#215;</button></div>';}).join('');
 }
 function setBudgetCard(sid,oid,bid,spent,budget,color){
 var pct=budget>0?Math.min(100,spent/budget*100):0;var over=spent>budget;
