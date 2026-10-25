@@ -2429,6 +2429,15 @@
       "cat": "Wants",
       "amt": 24.92,
       "timestamp": 1792959968565
+    },
+    {
+      "id": "mvoa3a3lz8q42",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Fresh Market for Party",
+      "cat": "Wants",
+      "amt": 14.42,
+      "timestamp": 1792959999969
     }
   ]
 }
