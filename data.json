@@ -2591,6 +2591,15 @@
       "cat": "Needs",
       "amt": 35,
       "timestamp": 1793568263148
+    },
+    {
+      "id": "mvyc8ruvz59ex",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Ticket",
+      "cat": "Needs",
+      "amt": 52,
+      "timestamp": 1793568277255
     }
   ]
 }
