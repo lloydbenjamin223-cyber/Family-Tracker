@@ -2609,6 +2609,15 @@
       "cat": "Salary",
       "amt": 55,
       "timestamp": 1793568322967
+    },
+    {
+      "id": "mvyca54eoiq78",
+      "month": "October 2026",
+      "type": "income",
+      "description": "T - 10/29",
+      "cat": "Salary",
+      "amt": 165,
+      "timestamp": 1793568341102
     }
   ]
 }
