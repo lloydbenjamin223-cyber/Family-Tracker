@@ -2501,6 +2501,15 @@
       "cat": "Needs",
       "amt": 320,
       "timestamp": 1793567782050
+    },
+    {
+      "id": "mvyc02h9cm464",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Gym",
+      "cat": "Ben Fun",
+      "amt": 10.71,
+      "timestamp": 1793567871117
     }
   ]
 }
