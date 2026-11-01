@@ -2519,6 +2519,15 @@
       "cat": "Needs",
       "amt": 75.36,
       "timestamp": 1793567923417
+    },
+    {
+      "id": "mvyc1j1a2lkqs",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Walgreens Katers",
+      "cat": "Mckaitli Fun",
+      "amt": 4.82,
+      "timestamp": 1793567939230
     }
   ]
 }
