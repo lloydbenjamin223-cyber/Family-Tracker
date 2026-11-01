@@ -2582,6 +2582,15 @@
       "cat": "Needs",
       "amt": 80.89,
       "timestamp": 1793568252885
+    },
+    {
+      "id": "mvyc8gz0i0iug",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Counseling",
+      "cat": "Needs",
+      "amt": 35,
+      "timestamp": 1793568263148
     }
   ]
 }
