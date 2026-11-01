@@ -2483,6 +2483,15 @@
       "cat": "Mckaitli Fun",
       "amt": 25.47,
       "timestamp": 1793567694237
+    },
+    {
+      "id": "mvyby0jcpzyx2",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Car Insurance",
+      "cat": "Needs",
+      "amt": 106,
+      "timestamp": 1793567775288
     }
   ]
 }
