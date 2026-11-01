@@ -2555,6 +2555,15 @@
       "cat": "Wants",
       "amt": 7.14,
       "timestamp": 1793568172347
+    },
+    {
+      "id": "mvyc6rcwbtqcq",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Maverick Drink Katers",
+      "cat": "Mckaitli Fun",
+      "amt": 1.71,
+      "timestamp": 1793568183296
     }
   ]
 }
