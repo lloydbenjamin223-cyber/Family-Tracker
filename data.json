@@ -2564,6 +2564,15 @@
       "cat": "Mckaitli Fun",
       "amt": 1.71,
       "timestamp": 1793568183296
+    },
+    {
+      "id": "mvyc84205eaj1",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Sams Club Groceries",
+      "cat": "Needs",
+      "amt": 25.65,
+      "timestamp": 1793568246408
     }
   ]
 }
