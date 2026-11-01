@@ -2492,6 +2492,15 @@
       "cat": "Needs",
       "amt": 106,
       "timestamp": 1793567775288
+    },
+    {
+      "id": "mvyby5r6g7f66",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Rent",
+      "cat": "Needs",
+      "amt": 320,
+      "timestamp": 1793567782050
     }
   ]
 }
