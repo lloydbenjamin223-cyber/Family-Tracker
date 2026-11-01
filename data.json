@@ -2573,6 +2573,15 @@
       "cat": "Needs",
       "amt": 25.65,
       "timestamp": 1793568246408
+    },
+    {
+      "id": "mvyc891xyfwrb",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Gas",
+      "cat": "Needs",
+      "amt": 80.89,
+      "timestamp": 1793568252885
     }
   ]
 }
