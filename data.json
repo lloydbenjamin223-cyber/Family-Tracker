@@ -2600,6 +2600,15 @@
       "cat": "Needs",
       "amt": 52,
       "timestamp": 1793568277255
+    },
+    {
+      "id": "mvyc9r4n0n0b3",
+      "month": "October 2026",
+      "type": "income",
+      "description": "M - 10/27",
+      "cat": "Salary",
+      "amt": 55,
+      "timestamp": 1793568322967
     }
   ]
 }
