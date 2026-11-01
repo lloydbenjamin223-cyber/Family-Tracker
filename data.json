@@ -2537,6 +2537,15 @@
       "cat": "Mckaitli Fun",
       "amt": 69.45,
       "timestamp": 1793568009196
+    },
+    {
+      "id": "mvyc3fls8papi",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Walmart Halloween",
+      "cat": "Wants",
+      "amt": 19.67,
+      "timestamp": 1793568028096
     }
   ]
 }
