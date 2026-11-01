@@ -2546,6 +2546,15 @@
       "cat": "Wants",
       "amt": 2.92,
       "timestamp": 1793568043271
+    },
+    {
+      "id": "mvyc6iwrbg3nb",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Fresh Market Pumpkins",
+      "cat": "Wants",
+      "amt": 7.14,
+      "timestamp": 1793568172347
     }
   ]
 }
