@@ -2672,6 +2672,15 @@
       "cat": "Needs",
       "amt": 31.43,
       "timestamp": 1794190736414
+    },
+    {
+      "id": "mw8mugpqoi7zy",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Car Parts",
+      "cat": "Needs",
+      "amt": 222.5,
+      "timestamp": 1794190747166
     }
   ]
 }
