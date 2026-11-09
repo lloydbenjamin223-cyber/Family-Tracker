@@ -2618,6 +2618,15 @@
       "cat": "Salary",
       "amt": 165,
       "timestamp": 1793568341102
+    },
+    {
+      "id": "mw8moxna561lp",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Home Depot Flooring",
+      "cat": "Wants",
+      "amt": 366.99,
+      "timestamp": 1794190489174
     }
   ]
 }
