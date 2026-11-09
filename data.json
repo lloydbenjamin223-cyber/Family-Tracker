@@ -2690,6 +2690,15 @@
       "cat": "Wants",
       "amt": 6.96,
       "timestamp": 1794190763685
+    },
+    {
+      "id": "mw8mv61594thn",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Drinks at RSL",
+      "cat": "Wants",
+      "amt": 12.46,
+      "timestamp": 1794190779977
     }
   ]
 }
