@@ -2627,6 +2627,15 @@
       "cat": "Wants",
       "amt": 366.99,
       "timestamp": 1794190489174
+    },
+    {
+      "id": "mw8mqgofhalf9",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Trip Wtih Megan - Katers",
+      "cat": "Mckaitli Fun",
+      "amt": 114.47,
+      "timestamp": 1794190560495
     }
   ]
 }
