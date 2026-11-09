@@ -2681,6 +2681,15 @@
       "cat": "Needs",
       "amt": 222.5,
       "timestamp": 1794190747166
+    },
+    {
+      "id": "mw8mutglxtpv2",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Disney Plus",
+      "cat": "Wants",
+      "amt": 6.96,
+      "timestamp": 1794190763685
     }
   ]
 }
