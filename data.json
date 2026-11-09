@@ -2699,6 +2699,15 @@
       "cat": "Wants",
       "amt": 12.46,
       "timestamp": 1794190779977
+    },
+    {
+      "id": "mw8my8shssnz7",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Car insurance",
+      "cat": "Needs",
+      "amt": 106,
+      "timestamp": 1794190923521
     }
   ]
 }
