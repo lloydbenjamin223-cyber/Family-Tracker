@@ -2636,6 +2636,15 @@
       "cat": "Mckaitli Fun",
       "amt": 114.27,
       "timestamp": 1794190573807
+    },
+    {
+      "id": "mw8mr3c92c4rv",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Smiths Groceries",
+      "cat": "Needs",
+      "amt": 37.32,
+      "timestamp": 1794190589865
     }
   ]
 }
