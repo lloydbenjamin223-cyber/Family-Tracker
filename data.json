@@ -2762,6 +2762,15 @@
       "cat": "Savings transfer",
       "amt": 1461.44,
       "timestamp": 1794191185657
+    },
+    {
+      "id": "mw8n47yq3kqss",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "Retirment",
+      "cat": "Retirement",
+      "amt": 292.29,
+      "timestamp": 1794191202386
     }
   ]
 }
