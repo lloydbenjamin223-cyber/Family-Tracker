@@ -2717,6 +2717,15 @@
       "cat": "Salary",
       "amt": 2225.64,
       "timestamp": 1794190952847
+    },
+    {
+      "id": "mw8mz4z33gvg6",
+      "month": "November 2026",
+      "type": "income",
+      "description": "Northline",
+      "cat": "Salary",
+      "amt": 2225.64,
+      "timestamp": 1794190965231
     }
   ]
 }
