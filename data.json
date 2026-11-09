@@ -2753,6 +2753,15 @@
       "cat": "Mckaitli Income",
       "amt": 75,
       "timestamp": 1794191027737
+    },
+    {
+      "id": "mw8n3v21cm7yg",
+      "month": "October 2026",
+      "type": "expense",
+      "description": "wealth front",
+      "cat": "Savings transfer",
+      "amt": 1461.44,
+      "timestamp": 1794191185657
     }
   ]
 }
