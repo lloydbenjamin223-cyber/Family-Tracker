@@ -2663,6 +2663,15 @@
       "cat": "Ben Fun",
       "amt": 6.1,
       "timestamp": 1794190672657
+    },
+    {
+      "id": "mw8mu8f27dwn2",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Apple",
+      "cat": "Needs",
+      "amt": 31.43,
+      "timestamp": 1794190736414
     }
   ]
 }
