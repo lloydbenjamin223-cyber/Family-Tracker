@@ -2744,6 +2744,15 @@
       "cat": "Mckaitli Income",
       "amt": 99,
       "timestamp": 1794190997000
+    },
+    {
+      "id": "mw8n0h7ds0har",
+      "month": "November 2026",
+      "type": "income",
+      "description": "T - 11/5",
+      "cat": "Mckaitli Income",
+      "amt": 75,
+      "timestamp": 1794191027737
     }
   ]
 }
