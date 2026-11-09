@@ -2726,6 +2726,15 @@
       "cat": "Salary",
       "amt": 2225.64,
       "timestamp": 1794190965231
+    },
+    {
+      "id": "mw8mziasr1z82",
+      "month": "November 2026",
+      "type": "income",
+      "description": "M - 11/5",
+      "cat": "Mckaitli Income",
+      "amt": 80,
+      "timestamp": 1794190982500
     }
   ]
 }
