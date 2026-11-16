@@ -2816,6 +2816,15 @@
       "cat": "Wants",
       "amt": 24.66,
       "timestamp": 1794846852332
+    },
+    {
+      "id": "mwjhhd24f515n",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Homedepot Paint",
+      "cat": "Wants",
+      "amt": 60.04,
+      "timestamp": 1794846865756
     }
   ]
 }
