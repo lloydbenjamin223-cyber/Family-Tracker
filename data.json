@@ -2906,6 +2906,15 @@
       "cat": "Needs",
       "amt": 59.92,
       "timestamp": 1794848021701
+    },
+    {
+      "id": "mwjih874d2pqr",
+      "month": "November 2026",
+      "type": "income",
+      "description": "M - 11/12",
+      "cat": "Mckaitli Income",
+      "amt": 55,
+      "timestamp": 1794848539072
     }
   ]
 }
