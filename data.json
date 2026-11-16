@@ -2771,6 +2771,15 @@
       "cat": "Retirement",
       "amt": 292.29,
       "timestamp": 1794191202386
+    },
+    {
+      "id": "mwjhd368j8g2z",
+      "month": "November 2026",
+      "type": "income",
+      "description": "T - 11/12",
+      "cat": "Mckaitli Income",
+      "amt": 165,
+      "timestamp": 1794846666320
     }
   ]
 }
