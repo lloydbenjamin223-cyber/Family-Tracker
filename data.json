@@ -2825,6 +2825,15 @@
       "cat": "Wants",
       "amt": 60.04,
       "timestamp": 1794846865756
+    },
+    {
+      "id": "mwjhhsdyo2sk2",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Old Grist Meal",
+      "cat": "Wants",
+      "amt": 10.28,
+      "timestamp": 1794846885622
     }
   ]
 }
