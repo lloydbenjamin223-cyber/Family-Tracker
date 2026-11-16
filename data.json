@@ -2807,6 +2807,15 @@
       "cat": "Wants",
       "amt": 26.8,
       "timestamp": 1794846844323
+    },
+    {
+      "id": "mwjhh2p8ldoun",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Amazon Katers Bday",
+      "cat": "Wants",
+      "amt": 24.66,
+      "timestamp": 1794846852332
     }
   ]
 }
