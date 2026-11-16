@@ -2870,6 +2870,15 @@
       "cat": "Needs",
       "amt": 5,
       "timestamp": 1794846960656
+    },
+    {
+      "id": "mwjhk12h5y093",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Henly",
+      "cat": "Mckaitli Fun",
+      "amt": 178.76,
+      "timestamp": 1794846990185
     }
   ]
 }
