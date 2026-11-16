@@ -2888,6 +2888,15 @@
       "cat": "Ben Fun",
       "amt": 26.7,
       "timestamp": 1794847018768
+    },
+    {
+      "id": "mwji5y6si0jsh",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Smiths Groceries",
+      "cat": "Needs",
+      "amt": 65.42,
+      "timestamp": 1794848012884
     }
   ]
 }
