@@ -2789,6 +2789,15 @@
       "cat": "Needs",
       "amt": 71.7,
       "timestamp": 1794846803815
+    },
+    {
+      "id": "mwjhgl0v9uzyf",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Walmart Fuel",
+      "cat": "Wants",
+      "amt": 27.25,
+      "timestamp": 1794846829423
     }
   ]
 }
