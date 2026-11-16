@@ -2852,6 +2852,15 @@
       "cat": "Mckaitli Fun",
       "amt": 25.74,
       "timestamp": 1794846931153
+    },
+    {
+      "id": "mwjhiyw2qj1yf",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Old Navy",
+      "cat": "Mckaitli Fun",
+      "amt": 53.6,
+      "timestamp": 1794846940706
     }
   ]
 }
