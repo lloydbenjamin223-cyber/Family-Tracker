@@ -2861,6 +2861,15 @@
       "cat": "Mckaitli Fun",
       "amt": 53.6,
       "timestamp": 1794846940706
+    },
+    {
+      "id": "mwjhjea8thhhn",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Counseling Ben",
+      "cat": "Needs",
+      "amt": 5,
+      "timestamp": 1794846960656
     }
   ]
 }
