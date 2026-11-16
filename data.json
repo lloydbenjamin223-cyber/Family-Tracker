@@ -2780,6 +2780,15 @@
       "cat": "Mckaitli Income",
       "amt": 165,
       "timestamp": 1794846666320
+    },
+    {
+      "id": "mwjhg19jxlr0z",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Sams Club Groceries",
+      "cat": "Needs",
+      "amt": 71.7,
+      "timestamp": 1794846803815
     }
   ]
 }
