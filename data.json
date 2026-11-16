@@ -2879,6 +2879,15 @@
       "cat": "Mckaitli Fun",
       "amt": 178.76,
       "timestamp": 1794846990185
+    },
+    {
+      "id": "mwjhkn4g35smh",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Baby Shower Gift",
+      "cat": "Ben Fun",
+      "amt": 26.7,
+      "timestamp": 1794847018768
     }
   ]
 }
