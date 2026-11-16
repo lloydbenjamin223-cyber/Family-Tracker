@@ -2834,6 +2834,15 @@
       "cat": "Wants",
       "amt": 10.28,
       "timestamp": 1794846885622
+    },
+    {
+      "id": "mwjhig6sl8bc3",
+      "month": "November 2026",
+      "type": "expense",
+      "description": "Boemans for Rheice",
+      "cat": "Needs",
+      "amt": 11.25,
+      "timestamp": 1794846916468
     }
   ]
 }
